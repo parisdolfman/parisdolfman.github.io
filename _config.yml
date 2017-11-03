@@ -4,7 +4,7 @@ header-img: img/home-bg.png
 email: parisdolfman@gmail.com
 copyright_name: parisdolfman
 description: > # this means to ignore newlines until "baseurl:"
-  A blog about the things I learn with coding 
+  A beginner's blog on coding 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  parisdolfman
