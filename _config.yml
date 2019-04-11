@@ -1,15 +1,14 @@
 # Site settings
+author: Paris Dolfman
 title: Clever Coding
 header-img: img/home-bg.png
 email: parisdolfman@gmail.com
-copyright_name: parisdolfman
+copyright_name: Paris Dolfman
 description: > # this means to ignore newlines until "baseurl:"
   A beginner's blog on coding 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  parisdolfman
-learn_profile: parisdolfman
-email_username: parisdolfman@gmail.com
 
 # Build settings
 markdown: kramdown
